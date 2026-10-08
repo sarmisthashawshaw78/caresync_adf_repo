@@ -1,1 +1,1 @@
-This repo us for caresync project
+This repo is used for the caresync project
