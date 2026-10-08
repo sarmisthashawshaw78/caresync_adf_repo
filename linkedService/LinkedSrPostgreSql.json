@@ -14,7 +14,7 @@
 					"referenceName": "LinkedSr_AzureKeyVault",
 					"type": "LinkedServiceReference"
 				},
-				"secretName": "Postgres-secrect-password",
+				"secretName": "postgres-secrect-password",
 				"secretVersion": "Latest Version"
 			},
 			"sslMode": 2,
