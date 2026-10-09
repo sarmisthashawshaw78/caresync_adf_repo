@@ -32,7 +32,7 @@
 				}
 			},
 			{
-				"name": "Set variable1",
+				"name": "Set Start Time",
 				"type": "SetVariable",
 				"dependsOn": [],
 				"policy": {
