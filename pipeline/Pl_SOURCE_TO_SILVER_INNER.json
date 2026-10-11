@@ -182,7 +182,7 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"notebookPath": "/caresync-repo/caresync-dbx-repo/Landing_to_Bronze",
+					"notebookPath": "/caresync-repo/caresync-dbx-repo/Bronze_to_Silver",
 					"baseParameters": {
 						"landing_timestamp": {
 							"value": "@variables('start_time')",
