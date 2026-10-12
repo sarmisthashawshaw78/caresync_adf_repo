@@ -1,5 +1,5 @@
 {
-	"name": "pipeline1",
+	"name": "PL_Master",
 	"properties": {
 		"activities": [
 			{
@@ -55,13 +55,13 @@
 					{
 						"activity": "Source to Silver Postgres",
 						"dependencyConditions": [
-							"Succeeded"
+							"Completed"
 						]
 					},
 					{
 						"activity": "Source to Silver ADLS CSV",
 						"dependencyConditions": [
-							"Succeeded"
+							"Completed"
 						]
 					}
 				],
