@@ -34,8 +34,6 @@
 			{
 				"name": "Ingest All tables",
 				"type": "ForEach",
-				"state": "Inactive",
-				"onInactiveMarkAs": "Succeeded",
 				"dependsOn": [
 					{
 						"activity": "Read Source Table List",
