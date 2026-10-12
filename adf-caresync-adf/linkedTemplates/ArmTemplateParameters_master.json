@@ -1,0 +1,42 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "adf-caresync-adf"
+		},
+		"LS_AzureDatabricks_properties_typeProperties_existingClusterId": {
+			"value": "1009-134334-ylnkrpuj"
+		},
+		"LinkedSrPostgreSql_properties_typeProperties_server": {
+			"value": "ep-soft-poetry-b3ehsamu-pooler.c-4.ap-southeast-1.aws.neon.tech"
+		},
+		"LinkedSrPostgreSql_properties_typeProperties_database": {
+			"value": "neondb"
+		},
+		"LinkedSrPostgreSql_properties_typeProperties_username": {
+			"value": "neondb_owner"
+		},
+		"LinkedSr_ADLS_properties_typeProperties_url": {
+			"value": "https://caresyncusecase.dfs.core.windows.net/"
+		},
+		"LinkedSr_AzureKeyVault_properties_typeProperties_baseUrl": {
+			"value": "https://caresync-keyvaults.vault.azure.net/"
+		},
+		"LinkedSr_AzureSqlDatabase_properties_typeProperties_server": {
+			"value": "caresync-trial-server.database.windows.net"
+		},
+		"LinkedSr_AzureSqlDatabase_properties_typeProperties_database": {
+			"value": "sql-db-caresync"
+		},
+		"LinkedSr_AzureSqlDatabase_properties_typeProperties_userName": {
+			"value": "sarmistha"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
