@@ -194,7 +194,7 @@
 							],
 							"userProperties": [],
 							"typeProperties": {
-								"message": "Inner Pipeline Failed",
+								"message": "Gold Pipeline Failed",
 								"errorCode": "500"
 							}
 						}
