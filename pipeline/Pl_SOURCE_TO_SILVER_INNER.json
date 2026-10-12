@@ -258,7 +258,7 @@
 				"type": "IfCondition",
 				"dependsOn": [
 					{
-						"activity": "Update Sucess Status",
+						"activity": "Bronze to Silver",
 						"dependencyConditions": [
 							"Succeeded"
 						]
